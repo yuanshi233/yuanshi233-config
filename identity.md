@@ -58,4 +58,4 @@ https://github.com/yuanshi233/AptS-1548
 ---
 
 配置版本：v1.0  
-派生自：yuanshi233/AptS-1548（2026-10-31）
+派生自：AsterCommunity/AptS-1548（2026-10-31）
