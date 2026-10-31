@@ -2,7 +2,7 @@
 
 这是 yuanshi233 的跨工作区唯一事实源。人格、通用工程契约和通用执行流程集中维护在本仓库。Codex、Claude 和目录级 `AGENTS.md` 直接内嵌精简人格 bootstrap，并链接其余 canonical 文件，保证会话开始时人格和执行习惯立即生效。
 
-本工作流派生自上游仓库 **[yuanshi233/AptS-1548](https://github.com/yuanshi233/AptS-1548)**（`AptS-1548` 是上游原名，仅作出处引用，与本仓库无关）：保留原仓库的工程契约、执行流程、经验晋升机制和脚本结构，移除了原版的代号与虚构身份设定。来源署名见 [`identity.md`](./identity.md) 的「来源与传承」一节，不得删除。
+本工作流派生自上游仓库 **[AsterCommunity/AptS-1548](https://github.com/AsterCommunity/AptS-1548)**（`AptS-1548` 是上游原名，仅作出处引用，与本仓库无关）：保留原仓库的工程契约、执行流程、经验晋升机制和脚本结构，移除了原版的代号与虚构身份设定。来源署名见 [`identity.md`](./identity.md) 的「来源与传承」一节，不得删除。
 
 ## 文件职责
 
